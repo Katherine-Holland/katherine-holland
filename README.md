@@ -1,5 +1,5 @@
-![Banner](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/githubbanner.png)
-*[LumaLabs.ai](https://www.lumalabs.ai) prompt*  
+![Banner](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/dalle.png)
+*[DALL.E 2022](https://openai.com/index/dall-e-3/) prompt*  
 
 ## Hi there 👋
 My name is Katherine and I am currently a student with the Code Institute studying for a Full Stack Developer Diploma. I'm also studying with Coursera. I am interested in Machine Learning, Data Science and Quantitative Finance.
@@ -9,7 +9,7 @@ My name is Katherine and I am currently a student with the Code Institute studyi
 - I'm also obsessed with prompting. I like to use LumaLabs.ai. Here's one of my favourite videos that I created:
 
 - ![Prompting](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/Luma.gif)
-
+*[LumaLabs.ai](https://www.lumalabs.ai) prompt*  
 ## Fun Facts:
 - In my spare time I like to create digital art.
 - I’m currently working on building a Cryptocurrency exchange... for fun.
