@@ -1,3 +1,6 @@
+![Banner](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/githubbanner.png)
+*[LumaLabs.ai](https://www.lumalabs.ai) prompt*  
+
 ## Hi there 👋
 My name is Katherine and I am currently a student with the Code Institute and Coursera. I am interested in Machine Learning, Data Science and Quantitative Finance.
 - 🔭 I’m currently working on a Cryptocurrency exchange for fun.
