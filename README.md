@@ -10,8 +10,7 @@ My name is Katherine and I have just graduated with the Code Institute as a Full
 I’m currently working on:
   1) An Ai Assurance website.
   2) A Cryptocurrency exchange... for fun.
-  3) Study coding with Coursera.
-  4) In my spare time I like to create digital art. I also like prompting in LumaLabs.ai. Here's one of my favourite videos that I created:
+  3) In my spare time I like to create digital art. I also like prompting in LumaLabs.ai. Here's one of my favourite videos that I created:
 
 - ![Prompting](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/Luma.gif)
   
