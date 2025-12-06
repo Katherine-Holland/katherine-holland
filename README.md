@@ -2,22 +2,20 @@
 *[DALL.E 2022](https://openai.com/index/dall-e-3/) prompt*  
 
 ## Hi there 👋
-I'm a future-focused Blockchain Engineer | Currently building a beginner-friendly DEX with smart contract safeguards, abstraction logic & AI-powered tooling.
+Hey there, I’m a UK-based AI Engineer and full-stack developer with a focus on building real-world Generative AI applications that solve communication, insight, and compliance challenges.
 
-I’m a newly qualified Full-Stack Developer upskilling into Web3 — combining my recent Diploma in Full Stack Development (with a specialization in predictive analytics) with hands-on smart contract experience. I'm currently completing a blockchain bootcamp, diving deep into Solidity, the EVM, Layer 2 scaling, ERC-20 tokens, and consensus protocols, while building real-world Web3 projects that emphasize security and usability.
+I’ve recently developed two major AI platforms:
 
-🔧 Projects I’m working on:
+🔍 Seekle — an AI-powered SEO intelligence tool that analyses how AI systems index and interpret website content, built using Python, FastAPI, LLM APIs, async crawlers and AWS.
 
-A decentralized exchange (DEX) using React.js, Ethers.js, Hardhat, and Tailwind CSS, featuring a smart contract-level buffer system to reduce transaction errors
+🛡 Ethicali — an AI assurance platform that evaluates datasets and algorithms against frameworks such as the EU AI Act, using modular Python validator nodes, FastAPI and secure AWS architecture.
 
-A smart contract wallet with account abstraction logic for transaction acknowledgment and delayed confirmation
+Alongside this, I’ve completed the Code Institute Full-Stack Software Development Diploma (2024–2025), where I trained in Python, Pandas, REST APIs, Agile delivery and built a supervised machine learning project in Jupyter Notebook (a classifier that detects mould in cherry leaves).
 
-AI-powered tools for smart contract auditing and debugging, blending blockchain with intelligent automation
+I’m passionate about creating AI tools that are safe, transparent and genuinely useful — especially in public-sector and communication contexts.
+This portfolio showcases my work, code samples, experiments and hands-on projects.
 
-🛠️ Tech Stack:
-Solidity • Ethers.js • Hardhat • React.js • Next.js • Redux • Web3.js • Python • Tailwind CSS • Solana (exploring)
-
-I’m driven by a passion for building ethical, human-centered Web3 applications that scale — and I’m looking for a Blockchain Engineer role where I can keep growing, ship real tools, and help shape the future of decentralized tech.
+Feel free to explore my repositories below!
 
 ## Fun Facts:
 
