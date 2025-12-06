@@ -20,7 +20,7 @@ Feel free to explore my repositories below!
 ## Portfolio:
 
 Machine Learning:  https://new-cherry-leaves.onrender.com/
-Ai Assurance Project: https://github.com/Katherine-Holland/ethicalinew
+Ai Assurance Project: https://github.com/Katherine-Holland/Ethicali
 
 ## Fun Facts:
 
