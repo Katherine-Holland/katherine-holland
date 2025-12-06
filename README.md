@@ -20,7 +20,11 @@ Feel free to explore my repositories below!
 ## Portfolio:
 
 Machine Learning:  https://new-cherry-leaves.onrender.com/
-Ai Assurance Project: https://github.com/Katherine-Holland/Ethicali
+
+Ai Assurance Project Repo: https://github.com/Katherine-Holland/Ethicali
+Test site: https://ethicali-streamlit.onrender.com/upload_validate
+Holding page: https://ethicali-5c3d4e2c504f.herokuapp.com/
+
 
 ## Fun Facts:
 
