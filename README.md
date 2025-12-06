@@ -6,9 +6,9 @@ Hey there, I’m a UK-based AI Engineer and full-stack developer with a focus on
 
 I’ve recently developed two major AI platforms:
 
-🔍 Seekle — an AI-powered SEO intelligence tool that analyses how AI systems index and interpret website content, built using Python, FastAPI, LLM APIs, async crawlers and AWS.
+Seekle — an AI-powered SEO intelligence tool that analyses how AI systems index and interpret website content, built using Python, FastAPI, LLM APIs, async crawlers and AWS.
 
-🛡 Ethicali — an AI assurance platform that evaluates datasets and algorithms against frameworks such as the EU AI Act, using modular Python validator nodes, FastAPI and secure AWS architecture.
+Ethicali — an AI assurance platform that evaluates datasets and algorithms against frameworks such as the EU AI Act, using modular Python validator nodes, FastAPI and secure AWS architecture.
 
 Alongside this, I’ve completed the Code Institute Full-Stack Software Development Diploma (2024–2025), where I trained in Python, Pandas, REST APIs, Agile delivery and built a supervised machine learning project in Jupyter Notebook (a classifier that detects mould in cherry leaves).
 
