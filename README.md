@@ -25,6 +25,9 @@ Ai Assurance Project Repo: https://github.com/Katherine-Holland/Ethicali
 Test site: https://ethicali-streamlit.onrender.com/upload_validate
 Holding page: https://ethicali-5c3d4e2c504f.herokuapp.com/
 
+AEO Tool for Ai discoverability: https://seekle.io/
+Currently woeking on the Shopify version of the app.
+
 
 ## Fun Facts:
 
