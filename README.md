@@ -17,6 +17,11 @@ This portfolio showcases my work, code samples, experiments and hands-on project
 
 Feel free to explore my repositories below!
 
+## Portfolio:
+
+Machine Learning:  https://new-cherry-leaves.onrender.com/
+Ai Assurance Project: https://github.com/Katherine-Holland/ethicalinew
+
 ## Fun Facts:
 
 - I specialised in Predictive Analytics with the Code Institute and studied Machine Learning with DeepLearning.AI and Stanford Online via Coursera (Taught by Andrew Ng). The latter course provides a broad introduction to modern machine learning, including: supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation. Andrew Ng also tells great Dad jokes.
