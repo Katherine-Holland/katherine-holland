@@ -19,7 +19,7 @@ Feel free to explore my repositories below!
 
 ## Portfolio:
 
-Sentiment Anlaysis for UK Governemnt data sources: https://gov-sentiment-explorer.onrender.com/  
+Sentiment Analysis for UK Government data sources: https://gov-sentiment-explorer.onrender.com/  
 
 Machine Learning:  https://new-cherry-leaves.onrender.com/
 
