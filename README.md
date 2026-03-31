@@ -4,7 +4,7 @@
 ## Hi there 👋
 Hey there, I’m a UK-based AI Engineer and full-stack developer with a focus on building real-world Generative AI applications that solve communication, insight, and compliance challenges.
 
-I’m currently working on www.chatterscript.com. 
+I’m currently working on CoGuard a security layer for Claude Cowork - think of it as a firewall for Ai agent access to your desktop. 
 
 Alongside this, I’ve completed the Code Institute Full-Stack Software Development Diploma (2024–2025), where I trained in Python, Pandas, REST APIs, Agile delivery and built a supervised machine learning project in Jupyter Notebook (a classifier that detects mould in cherry leaves).
 
