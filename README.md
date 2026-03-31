@@ -31,4 +31,4 @@ Currently working on the Shopify version of the app.
 
 - I specialised in Predictive Analytics with the Code Institute and studied Machine Learning with DeepLearning.AI and Stanford Online via Coursera (Taught by Andrew Ng). The latter course provides a broad introduction to modern machine learning, including: supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation. Andrew Ng also tells great Dad jokes.
   
-- I am now teaching myself Mechanistic Interpretability. Check out my Rainbow Threading repp, or follow along on Medium [https://medium.com/@littlerobinagency/rainbow-threading-building-a-visual-brain-scan-for-language-models-41e6748dca19]
+- I am now teaching myself Mechanistic Interpretability. Check out my Rainbow Threading repp, or follow along on Medium[Visit Medium](https://medium.com/@littlerobinagency/rainbow-threading-building-a-visual-brain-scan-for-language-models-41e6748dca19)
