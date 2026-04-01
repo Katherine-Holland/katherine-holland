@@ -13,20 +13,6 @@ This portfolio showcases my work, code samples, experiments and hands-on project
 
 Feel free to explore my repositories below!
 
-## Portfolio:
-
-Sentiment Analysis for UK Government data sources: https://gov-sentiment-explorer.onrender.com/  
-
-Machine Learning:  https://new-cherry-leaves.onrender.com/
-
-Ai Assurance Project Repo: https://github.com/Katherine-Holland/Ethicali
-Test site: https://ethicali-streamlit.onrender.com/upload_validate
-Holding page: https://ethicali-5c3d4e2c504f.herokuapp.com/
-
-AEO Tool for Ai discoverability: https://seekle.io/
-Currently working on the Shopify version of the app.
-
-
 ## Fun Facts:
 
 - I specialised in Predictive Analytics with the Code Institute and studied Machine Learning with DeepLearning.AI and Stanford Online via Coursera (Taught by Andrew Ng). The latter course provides a broad introduction to modern machine learning, including: supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation. Andrew Ng also tells great Dad jokes.
