@@ -4,7 +4,7 @@
 ## Hi there 👋
 Hey there, I’m a UK-based AI Engineer and full-stack developer with a focus on building real-world Generative AI applications that solve communication, insight, and compliance challenges.
 
-I’m currently working on CoGuard a security layer for Claude Cowork - think of it as a firewall for Ai agent access to your desktop: https://github.com/Katherine-Holland/ClaudeCoworkGuard 
+I’m currently working on CoGuard a security layer for macOS - think of it as a firewall for Ai agent access to your desktop: https://github.com/Katherine-Holland/ClaudeCoworkGuard 
 
 Alongside this, I’ve completed the Code Institute Full-Stack Software Development Diploma (2024–2025), where I trained in Python, Pandas, REST APIs, Agile delivery and built a supervised machine learning project in Jupyter Notebook (a classifier that detects mould in cherry leaves).
 
@@ -17,4 +17,3 @@ Feel free to explore my repositories below!
 
 - I specialised in Predictive Analytics with the Code Institute and studied Machine Learning with DeepLearning.AI and Stanford Online via Coursera (Taught by Andrew Ng). The latter course provides a broad introduction to modern machine learning, including: supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation. Andrew Ng also tells great Dad jokes.
   
-- I am now teaching myself Mechanistic Interpretability. Check out my Rainbow Threading repo, or follow along on Medium [Visit Medium](https://medium.com/@littlerobinagency/rainbow-threading-building-a-visual-brain-scan-for-language-models-41e6748dca19)
