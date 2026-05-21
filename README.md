@@ -1,19 +1,37 @@
 ![Banner](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/dalle.png)
-*[DALL.E 2022](https://openai.com/index/dall-e-3/) prompt*  
 
-## Hi there 👋
-Hey there, I’m a UK-based AI Engineer and full-stack developer with a focus on building real-world Generative AI applications that solve communication, insight, and compliance challenges.
+# Hi there 👋
 
-I’m currently working on CoworkGuard a security layer for macOS - think of it as a firewall for Ai agent access to your desktop: https://github.com/Katherine-Holland/ClaudeCoworkGuard 
+I’m a UK-based developer building runtime visibility and security tooling for AI-native computing.
 
-Alongside this, I’ve completed the Code Institute Full-Stack Software Development Diploma (2024–2025), where I trained in Python, Pandas, REST APIs, Agile delivery and built a supervised machine learning project in Jupyter Notebook (a classifier that detects mould in cherry leaves).
+I’m currently building CoworkGuard — a local-first runtime monitoring layer for macOS that helps users understand what AI-powered apps, browser tools, extensions, and local agents are doing on their machine.
 
-I’m passionate about creating AI tools that are safe, transparent and genuinely useful — especially in public-sector and communication contexts.
-This portfolio showcases my work, code samples, experiments and hands-on projects.
+CoworkGuard focuses on:
 
-Feel free to explore my repositories below!
+* AI app activity monitoring
+* outbound connection visibility
+* browser AI tooling
+* extension and agent behaviour
+* local AI runtime observability
+* sensitive data flow detection
+* behavioural correlation timelines
 
-## Fun Facts:
+The goal is simple:
 
-- I specialised in Predictive Analytics with the Code Institute and studied Machine Learning with DeepLearning.AI and Stanford Online via Coursera (Taught by Andrew Ng). The latter course provides a broad introduction to modern machine learning, including: supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation. Andrew Ng also tells great Dad jokes.
-  
+> What are your AI tools doing?
+
+As AI assistants, coding agents, MCP tools, and browser AI features gain deeper access to local systems, I believe users need better visibility into:
+
+* what accessed sensitive data,
+* which process initiated a connection,
+* and what left the machine.
+
+CoworkGuard is designed as a calm, local-first observability layer for that new environment.
+
+You can explore the project here:
+
+→ https://github.com/Katherine-Holland/ClaudeCoworkGuard
+
+Alongside CoworkGuard, I work across AI tooling, developer platforms, runtime monitoring, and AI security concepts focused on transparency, privacy, and human-readable security experiences.
+
+Feel free to explore the repositories below.
