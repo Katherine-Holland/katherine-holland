@@ -1,4 +1,4 @@
-![Banner](https://github.com/Katherine-Holland/homepage/blob/main/assets/images/dalle.png)
+![Banner](https://raw.githubusercontent.com/Katherine-Holland/ClaudeCoworkGuard/main/docs/assets/banner.png)
 
 # Hi there 👋
 
